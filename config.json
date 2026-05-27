@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersrocess",
+        "uuid": 2242020,
+        "checksum": "d22xs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
